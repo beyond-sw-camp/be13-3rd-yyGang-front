@@ -173,3 +173,120 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 </details>
 
 
+## 약 질문하기
+<details>
+<summary>전체 약 질문 조회</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+<details>
+<summary>약 질문 작성</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+<details>
+<summary>약 질문 수정 / 삭제</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+<details>
+<summary>답변 - 약사만 가능</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+## 영양제
+<details>
+<summary>검색</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+<details>
+<summary>성분 태그 / 건강 기능 별 태그 </summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+<details>
+<summary>제품 상세 페이지</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+<details>
+<summary>리뷰 작성/ 내 리뷰 확인 / 내 리뷰 수정</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+<details>
+<summary>장바구니</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+<details>
+<summary>상품 주문</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+## 장바구니
+<details>
+<summary>장바구니 상품 추가</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+<details>
+<summary>장바구니 상품 조회 / 수정 / 삭제</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+<details>
+<summary>장바구니 상품 주문</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+## 상품 등록
+<details>
+<summary>판매자 상품 등록</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+<details>
+<summary>내 등록 상품 조회</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+<details>
+<summary>판매자 상품 수정 / 삭제</summary>
+<div markdown="1">
+  
+</div>
+</details>
+
+
