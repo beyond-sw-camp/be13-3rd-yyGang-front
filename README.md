@@ -137,7 +137,7 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 <summary>비밀번호 변경</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/3007d86b-05a9-442f-9ee2-769b2b7b747b)
+  ![Image](https://github.com/user-attachments/assets/2e989b6a-d549-4827-9057-2bbd97b1a974)
   
 </div>
 </details>
