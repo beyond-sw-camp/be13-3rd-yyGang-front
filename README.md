@@ -115,31 +115,20 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 
 
 ## 🔍 UI/UX 단위 테스트
-<details>
-
 ## 회원
+<details>
 <summary>회원가입</summary>
 <div markdown="1">
   
 </div>
+</details>
 
+<details>
 <summary>로그인</summary>
 <div markdown="1">
   
 </div>
-
-<summary>내 정보 조회 / 수정</summary>
-<div markdown="1">
-  
-</div>
-<summary>비밀번호 변경</summary>
-<div markdown="1">
-  
-</div>
-<summary>회원 탈퇴</summary>
-<div markdown="1">
-  
-</div>
 </details>
+
 
 
