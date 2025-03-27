@@ -1,4 +1,4 @@
-# be13-3rd-3team
+![회원가입](https://github.com/user-attachments/assets/a941568d-622d-40c0-a819-ff49e6239f29)# be13-3rd-3team
 ![팀 프로젝트 사진](https://github.com/user-attachments/assets/19d6335f-9bca-4075-9c34-7292370b2e71)
 
 
@@ -114,11 +114,13 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 
 
 
-## 🔍 화면구성
+## 🔍 UI/UX 단위 테스트
 <details>
-<summary>메인 화면</summary>
-  
-![메인화면](https://github.com/user-attachments/assets/30741606-d4fe-4d6e-a6b5-27691d8821b0)
+<summary>회원가입</summary>
+<div markdown="1">
+
+</div>
+![Uploading 회원가입.gif…]()
 </details>
 
 
