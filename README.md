@@ -118,28 +118,36 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 <details>
 <summary>회원가입 / 로그인</summary>
 <div markdown="1">
+
   ![Image](https://github.com/user-attachments/assets/0778549a-116d-40db-b6d1-e921daeb8ae8)
+  
 </div>
 </details>
 
 <details>
 <summary>내 정보 조회 / 수정</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/307e23a6-75c5-4d9b-b055-ce40c08fa913)
+  
 </div>
 </details>
 
 <details>
 <summary>비밀번호 변경</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/3007d86b-05a9-442f-9ee2-769b2b7b747b)
+  
 </div>
 </details>
 
 <details>
 <summary>회원탈퇴</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/32d9258f-4387-4dd8-95ea-6a0126a5081b)
+  
 </div>
 </details>
 
@@ -147,28 +155,36 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 <details>
 <summary>전체 게시글 조회</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/70b71e30-6fc9-4146-98d7-f4efde8ccad6)
+  
 </div>
 </details>
 
 <details>
 <summary>게시글 작성</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/361186ed-403e-489e-b19a-e89728dcaf61)
+  
 </div>
 </details>
 
 <details>
 <summary>게시글 수정 / 삭제</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/51008806-f51e-4daf-afa5-4bd10698225e)
+  
 </div>
 </details>
 
 <details>
 <summary>댓글 / 대댓글</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/51e07c3b-c6f8-49f1-b99f-99aae27aa563)
+  
 </div>
 </details>
 
@@ -177,49 +193,36 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 <details>
 <summary>전체 약 질문 조회</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/e59660d9-03eb-4c9d-85ae-333fd857ab58)
-</div>
-</details>
-
-<details>
-<summary>약 질문 작성</summary>
-<div markdown="1">
   
 </div>
 </details>
 
 <details>
-<summary>약 질문 수정 / 삭제</summary>
+<summary>약 질문 작성 / 수정 / 삭제</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/36b76aeb-7e11-46db-bc3b-67967fb292a3)
+  
 </div>
 </details>
 
 <details>
 <summary>답변 - 약사만 가능</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/7b1682f4-f3df-4041-81c8-6939b55d9d29)
+  
 </div>
 </details>
 
 ## 영양제
 <details>
-<summary>검색</summary>
-<div markdown="1">
-  ![Image](https://github.com/user-attachments/assets/ae8c1c54-8e2c-4899-9a51-3a9aa4601d48)
-</div>
-</details>
-
-<details>
-<summary>성분 태그 / 건강 기능 별 태그 </summary>
+<summary>성분 태그 / 건강 기능 별 태그 / 이름 검색</summary>
 <div markdown="1">
   
-</div>
-</details>
-
-<details>
-<summary>제품 상세 페이지</summary>
-<div markdown="1">
+  ![Image](https://github.com/user-attachments/assets/ae8c1c54-8e2c-4899-9a51-3a9aa4601d48)
   
 </div>
 </details>
@@ -227,13 +230,8 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 <details>
 <summary>리뷰 작성/ 내 리뷰 확인 / 내 리뷰 수정</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/0123980f-9084-4623-b5fb-467506b52777)
-</div>
-</details>
-
-<details>
-<summary>장바구니</summary>
-<div markdown="1">
   
 </div>
 </details>
@@ -241,7 +239,9 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 <details>
 <summary>상품 주문</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/03572908-8948-4f42-95b5-2dfd92bdbb47)
+  
 </div>
 </details>
 
@@ -249,7 +249,9 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 <details>
 <summary>장바구니 상품 추가</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/4e164418-f7d2-4d74-a501-d1796b3788d9)
+  
 </div>
 </details>
 
@@ -263,7 +265,9 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 <details>
 <summary>장바구니 상품 주문</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/ceb3293f-835e-4df9-8d13-f9b965e54ddf)
+  
 </div>
 </details>
 
@@ -271,14 +275,18 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 <details>
 <summary>판매자 상품 등록</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/5bed866d-3a97-4734-8ab1-de85f30935f9)
+  
 </div>
 </details>
 
 <details>
-<summary>내 등록 상품 조회</summary>
+<summary>내 등록 상품 조회 / 수정 / 삭제</summary>
 <div markdown="1">
+  
   ![Image](https://github.com/user-attachments/assets/2fb92ce7-10e7-447a-a560-673b93d75e7c)
+  
 </div>
 </details>
 
