@@ -259,6 +259,8 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 <summary>장바구니 상품 조회 / 수정 / 삭제</summary>
 <div markdown="1">
   
+  ![Image](https://github.com/user-attachments/assets/d62563f0-c4ac-46fe-b770-258bc1ebdfa1)
+  
 </div>
 </details>
 
