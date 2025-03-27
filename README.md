@@ -83,7 +83,7 @@
 
 
 ## 시스템 아키텍처
-[시스템 아키텍처 사진 넣어주기]
+![시스템](https://github.com/user-attachments/assets/322164d5-6cee-4c14-81d7-f1185e025d35)
 
 
 
@@ -99,6 +99,9 @@
 
 ### 💬 Communication
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+
+## 📎Backend Github
+벡엔드 URL : https://github.com/beyond-sw-camp/be13-2nd-yyGang/tree/main
 
 
 ## 📌 화면 설계
