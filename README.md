@@ -1,4 +1,3 @@
-![회원가입](https://github.com/user-attachments/assets/a941568d-622d-40c0-a819-ff49e6239f29)# be13-3rd-3team
 ![팀 프로젝트 사진](https://github.com/user-attachments/assets/19d6335f-9bca-4075-9c34-7292370b2e71)
 
 
