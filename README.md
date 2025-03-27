@@ -99,9 +99,13 @@
 ### 💬 Communication
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
-## 📎Backend Github
-벡엔드 URL : https://github.com/beyond-sw-camp/be13-2nd-yyGang/tree/main
+<br>
 
+## 📎URL
+#### 🖥️ Backend Github Url : https://github.com/beyond-sw-camp/be13-2nd-yyGang/tree/main
+#### 🖥️ Jira Url : https://wldnrkwhr36.atlassian.net/jira/software/projects/BPJ/boards/4/timeline
+
+<br>
 
 ## 📌 화면 설계
 <details>
@@ -112,8 +116,20 @@ https://www.figma.com/design/vGeaWMkgpIMoXgVQZdtWUX/%EC%98%81%EC%96%91%EA%B0%B1?
 ![figma](https://github.com/user-attachments/assets/845c4128-22aa-488d-97ac-f93677f92cbc)
 
 
+<br>
 
 ## 🔍 UI/UX 단위 테스트
+
+![단위 테스트](https://github.com/user-attachments/assets/2a900c42-a6c0-42da-9e32-76dcb484d34f)
+
+<details>
+<summary>📌 UI/UX 단위 테스트</summary>
+https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZcI8/edit?gid=0#gid=0 
+</details>
+
+<br>
+
+
 ## 회원
 <details>
 <summary>회원가입 / 로그인</summary>
