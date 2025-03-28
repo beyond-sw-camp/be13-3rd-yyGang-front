@@ -129,13 +129,12 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 
 <br>
 
-
 ## 회원
 <details>
 <summary>회원가입 / 로그인</summary>
 <div markdown="1">
 
-  ![Image](https://github.com/user-attachments/assets/0778549a-116d-40db-b6d1-e921daeb8ae8)
+  <img src="https://github.com/user-attachments/assets/0778549a-116d-40db-b6d1-e921daeb8ae8" width="50%">
   
 </div>
 </details>
@@ -144,7 +143,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>내 정보 조회 / 수정</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/307e23a6-75c5-4d9b-b055-ce40c08fa913)
+  <img src="https://github.com/user-attachments/assets/307e23a6-75c5-4d9b-b055-ce40c08fa913" width="50%">
   
 </div>
 </details>
@@ -153,7 +152,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>비밀번호 변경</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/2e989b6a-d549-4827-9057-2bbd97b1a974)
+  <img src="https://github.com/user-attachments/assets/2e989b6a-d549-4827-9057-2bbd97b1a974" width="50%">
   
 </div>
 </details>
@@ -162,7 +161,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>회원탈퇴</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/32d9258f-4387-4dd8-95ea-6a0126a5081b)
+  <img src="https://github.com/user-attachments/assets/32d9258f-4387-4dd8-95ea-6a0126a5081b" width="50%">
   
 </div>
 </details>
@@ -172,7 +171,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>전체 게시글 조회</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/70b71e30-6fc9-4146-98d7-f4efde8ccad6)
+  <img src="https://github.com/user-attachments/assets/70b71e30-6fc9-4146-98d7-f4efde8ccad6" width="50%">
   
 </div>
 </details>
@@ -181,7 +180,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>게시글 작성</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/361186ed-403e-489e-b19a-e89728dcaf61)
+  <img src="https://github.com/user-attachments/assets/361186ed-403e-489e-b19a-e89728dcaf61" width="50%">
   
 </div>
 </details>
@@ -190,7 +189,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>게시글 수정 / 삭제</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/51008806-f51e-4daf-afa5-4bd10698225e)
+  <img src="https://github.com/user-attachments/assets/51008806-f51e-4daf-afa5-4bd10698225e" width="50%">
   
 </div>
 </details>
@@ -199,18 +198,17 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>댓글 / 대댓글</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/51e07c3b-c6f8-49f1-b99f-99aae27aa563)
+  <img src="https://github.com/user-attachments/assets/51e07c3b-c6f8-49f1-b99f-99aae27aa563" width="50%">
   
 </div>
 </details>
-
 
 ## 약 질문하기
 <details>
 <summary>전체 약 질문 조회</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/e59660d9-03eb-4c9d-85ae-333fd857ab58)
+  <img src="https://github.com/user-attachments/assets/e59660d9-03eb-4c9d-85ae-333fd857ab58" width="50%">
   
 </div>
 </details>
@@ -219,7 +217,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>약 질문 작성 / 수정 / 삭제</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/36b76aeb-7e11-46db-bc3b-67967fb292a3)
+  <img src="https://github.com/user-attachments/assets/36b76aeb-7e11-46db-bc3b-67967fb292a3" width="50%">
   
 </div>
 </details>
@@ -228,7 +226,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>답변 - 약사만 가능</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/7b1682f4-f3df-4041-81c8-6939b55d9d29)
+  <img src="https://github.com/user-attachments/assets/7b1682f4-f3df-4041-81c8-6939b55d9d29" width="50%">
   
 </div>
 </details>
@@ -238,7 +236,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>성분 태그 / 건강 기능 별 태그 / 이름 검색</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/ae8c1c54-8e2c-4899-9a51-3a9aa4601d48)
+  <img src="https://github.com/user-attachments/assets/ae8c1c54-8e2c-4899-9a51-3a9aa4601d48" width="50%">
   
 </div>
 </details>
@@ -247,7 +245,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>리뷰 작성/ 내 리뷰 확인 / 내 리뷰 수정</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/0123980f-9084-4623-b5fb-467506b52777)
+  <img src="https://github.com/user-attachments/assets/0123980f-9084-4623-b5fb-467506b52777" width="50%">
   
 </div>
 </details>
@@ -256,7 +254,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>상품 주문</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/03572908-8948-4f42-95b5-2dfd92bdbb47)
+  <img src="https://github.com/user-attachments/assets/03572908-8948-4f42-95b5-2dfd92bdbb47" width="50%">
   
 </div>
 </details>
@@ -266,7 +264,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>장바구니 상품 추가</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/4e164418-f7d2-4d74-a501-d1796b3788d9)
+  <img src="https://github.com/user-attachments/assets/4e164418-f7d2-4d74-a501-d1796b3788d9" width="50%">
   
 </div>
 </details>
@@ -275,7 +273,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>장바구니 상품 조회 / 수정 / 삭제</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/d62563f0-c4ac-46fe-b770-258bc1ebdfa1)
+  <img src="https://github.com/user-attachments/assets/d62563f0-c4ac-46fe-b770-258bc1ebdfa1" width="50%">
   
 </div>
 </details>
@@ -284,7 +282,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>장바구니 상품 주문</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/ceb3293f-835e-4df9-8d13-f9b965e54ddf)
+  <img src="https://github.com/user-attachments/assets/ceb3293f-835e-4df9-8d13-f9b965e54ddf" width="50%">
   
 </div>
 </details>
@@ -294,7 +292,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>판매자 상품 등록</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/5bed866d-3a97-4734-8ab1-de85f30935f9)
+  <img src="https://github.com/user-attachments/assets/5bed866d-3a97-4734-8ab1-de85f30935f9" width="50%">
   
 </div>
 </details>
@@ -303,7 +301,7 @@ https://docs.google.com/spreadsheets/d/15YYf8uofEw9gY0yJmCZ47F-nCaSvJ7-zgntefZcZ
 <summary>내 등록 상품 조회 / 수정 / 삭제</summary>
 <div markdown="1">
   
-  ![Image](https://github.com/user-attachments/assets/2fb92ce7-10e7-447a-a560-673b93d75e7c)
+  <img src="https://github.com/user-attachments/assets/2fb92ce7-10e7-447a-a560-673b93d75e7c" width="50%">
   
 </div>
 </details>
